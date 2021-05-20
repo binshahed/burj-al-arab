@@ -1,0 +1,27 @@
+.header{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+    url('../../images/header.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.header .menu{
+    padding-top: 30px;
+    
+}
+.header .menu .link{
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    /* font-weight: bold; */
+    color: #fff;
+    margin-top: 50px;
+}
+h1{
+    padding: 50px 0;
+}
+.title-container{
+    color:#fff;
+    padding: 100px 0;
+}
