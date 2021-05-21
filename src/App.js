@@ -18,6 +18,7 @@ function App() {
       <p>{loggedInUser.name}</p>
       <Router>
         <Header></Header>
+
         <Switch>
           <Route exact path="/">
             <Home />
